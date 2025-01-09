@@ -2,4 +2,4 @@
 
 by Programmer Zaman Now
 
-# Trigger jenkin
+# Trigger jenkins
